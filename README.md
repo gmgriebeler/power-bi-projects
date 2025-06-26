@@ -1,5 +1,4 @@
 # Power-BI Projects
-## Feel free to take a closer look and download the files :)
 
 # Accidents Dashboard Preview
 ![image](https://github.com/user-attachments/assets/02384b49-86f5-4dc1-ae61-7e0c749a5c58)
@@ -12,3 +11,5 @@
 
 # Law Firm Dashboard Preview
 ![image](https://github.com/user-attachments/assets/f8654f3d-15bb-4318-af7d-5314d7ca89de)
+
+### Feel free to take a closer look and download the files :)
